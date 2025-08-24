@@ -1,0 +1,214 @@
+Chandan - Personal Portfolio
+# sidebar
+
+alt = Chandan Arya
+Chandan Arya
+Data Analyst
+
+Show Contacts
+
+Email
+chandanarya563@gmail.com
+
+Phone
++91 7351165055
+
+Birthday
+May 7, 2006
+
+Location
+Haldwani, Uttarakhand, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Contact
+
+# about
+
+About me
+
+I'm specialized data analyst from Haldwani, India.
+With a strong foundation in data analysis, visualization, and problem-solving, I enjoy simplifying challenges through data-driven solutions.
+
+My job is to turn raw data into meaningful insights that are not only accurate and actionable but also 
+easy to understand. I add a personal touch to every analysis, ensuring that the results are clear, impactful, and 
+aligned with business goals. 
+My aim is to communicate your message and uncover hidden patterns in the most insightful and creative way.
+               
+## service
+
+What i'm doing
+
+alt = design icon
+Data Analysis
+The most accurate and insightful analysis delivered at a professional level.
+
+alt = Machine Learning icon
+Machine Learning 
+High-quality machine learning solutions delivered at a professional level.
+
+alt = mobile app icon
+Data Visualization
+Professional creation of clear and impactful data visuals.
+
+alt = stats icon
+Statistical Programming
+I deliver high-quality statistical programming and analysis at a professional level.
+
+
+## testimonials
+
+Peer feedback
+
+alt = Chandan Arya
+Mohit Joshi
+Chandan Arya excels strong aptitude for critical thinking and precision. 
+He is skilled at working with complex data, drawing out valuable insights, and delivering them in a concise and well-structured manner. 
+His resourceful mindset and adaptability make him an excellent fit for a Data Analyst role. 
+He is also trustworthy and a great team player, always supporting collective goals.
+
+alt = Jessica miller
+Sumit Singh Rawat
+Chandan Arya has strong analytical skills and a sharp eye for detail. 
+He works effectively with data, identifies key patterns, and presents insights in a clear and structured way. 
+His problem-solving approach and adaptability make him well-suited for a Data Analyst role. 
+He is also collaborative and dependable, contributing positively to the team.
+
+alt = Emily evans
+Priya Bisht
+Chandan demonstrates exceptional analytical thinking and problem-solving ability. 
+He can turn complex information into clear insights that support decision-making. 
+His reports are well-organized and easy to understand. 
+He pay attention to detail and ensure accuracy in their work. 
+His problem-solving approach and consistency add great value to the work.
+
+alt = Henry william
+Mayank Thapa
+Chandan Arya has strong analytical thinking and excellent attention to detail. 
+He efficiently works with complex datasets, identifies meaningful trends, and translates them into actionable insights. 
+His structured approach to problem-solving and adaptability to new tools and methods make him highly effective in a Data Analyst position. 
+Chandan is also a reliable team man, collaborating well with colleagues and contributing consistently to achieving shared goals.
+                  
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Pal College of Technology & Management, Kumaun University, Nainital.
+2023 — 2026
+Pursuing a Bachelor’s in Computer Applications with a specialization in Data Analysis, 
+developing strong foundations in programming, databases, 
+and data-driven problem solving, while gaining practical exposure to 
+modern tools and technologies in data science.
+
+Atal Utkrasth Govt Inter College Betalghat, Nainital
+2021 — 2023
+Completed Senior Secondary Education with a focus 
+on academic growth and preparation for higher studies.
+
+Saraswati Shishu Vidya Mandir Betalghat, Nainital
+2009 — 2021
+Completed foundational education from Primary to Secondary Education,
+building strong academic fundamentals along with values, discipline, and 
+active participation in both curricular and co-curricular activities.
+
+Experience
+
+Employability.life - Internship
+Sep 2024 - Nov 2024
+Worked as an Intern, gaining hands-on experience in Robotic Process Automation (RPA) and data handling. 
+Learned to use UiPath Studio for automating business processes and contributed to tasks such as data entry, workflow automation, and process optimization.
+              
+Art director
+2013 — 2015
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et
+quas molestias
+exceptur.
+
+My skills
+
+Data Analysis
+90%
+Machine Learning (Entry-Level)
+40%
+Database (MySQL)
+90%
+Data Visualization
+90%
+Statistical Analysis
+60%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Data Analysis
+Database (MySql)
+Visualization
+
+Select category
+All
+Data Analysis
+Database (MySql)
+Visualization
+
+alt = data analysis
+Loan-Eligibility-Prediction
+Data Analysis
+
+alt = orizon
+Yearly Sales Analysis
+Data Analysis
+
+alt = fundo
+GDP extraction and processing
+Data Analysis
+
+alt = brawlhalla
+University Management System
+Database (MySql)
+
+alt = dsm.
+Music Store
+Database (MySql)
+
+alt = metaspark
+HR Analytics Dashboard
+Visualization
+
+alt = task manager
+Task Manager
+Data Analysis
+
+alt = arrival
+Arrival
+Visualization
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
